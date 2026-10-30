@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Painel da Loja</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <aside class="sidebar">
+    <h2>MINHA LOJA</h2>
+    <nav>
+      <a class="active" href="#">Dashboard</a>
+      <a href="#">Produtos</a>
+      <a href="#">Pedidos</a>
+      <a href="#">Clientes</a>
+      <a href="#">Configurações</a>
+    </nav>
+  </aside>
+
+  <main class="content">
+    <header>
+      <h1>Painel administrativo</h1>
+      <span id="status">Verificando sistema...</span>
+    </header>
+
+    <section class="cards">
+      <div class="card">
+        <h3>Produtos</h3>
+        <p id="products">0</p>
+      </div>
+
+      <div class="card">
+        <h3>Pedidos</h3>
+        <p>0</p>
+      </div>
+
+      <div class="card">
+        <h3>Clientes</h3>
+        <p>0</p>
+      </div>
+    </section>
+
+    <section class="welcome">
+      <h2>Bem-vindo à sua loja!</h2>
+      <p>Seu painel administrativo está sendo configurado.</p>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

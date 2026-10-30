@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1793382144686",
+    "name": "Linguiça Toscana Premium",
+    "description": "Feita com carne suína selecionada e o equilíbrio perfeito de gordura, nossa linguiça toscana é temperada na medida certa para garantir aquele sabor tradicional e marcante. Com uma textura impecável e muito suculenta, ela é o aperitivo que não pode faltar de jeito nenhum no seu churrasco ou no almoço de domingo.\n\nDestaques: Carne selecionada, tempero exclusivo e pele fininha que pururuca na brasa.\nSugestão de preparo: Na churrasqueira, na brasa forte, ou assada no forno com batatas.",
+    "price": 34.99,
+    "photoFileId": "AgACAgEAAxkBAAP8auTW1-Kmb7dNh5uX8wABQn_IT2jwAAKBDWsbNrsgRwQEo9Jp8i69AQADAgADbQADPQQ",
+    "priceType": "kg"
+  },
+  {
+    "id": "1793382666948",
+    "name": "Fígado Bovino Fresco",
+    "description": "Para quem não abre mão de uma refeição nutritiva e saborosa, o nosso fígado bovino é entregue sempre fresco, limpo e cortado em bifes na espessura ideal. Extremamente rico em ferro e vitaminas, ele é perfeito para aquele bife acebolado bem suculento, macio e rápido de preparar.\n\nDestaques: Corte limpo (sem nervos), frescor garantido e alto valor nutricional.\nSugestão de preparo: Clássico bife acebolado na frigideira bem quente (grelhado rapidamente para não endurecer).",
+    "price": 22.99,
+    "priceType": "kg",
+    "photoFileId": "AgACAgEAAxkBAAIBGGrk2QjCz8zymWMXebFv_V8da0QrAAKCDWsbNrsgR45asaJYC6LCAQADAgADeAADPQQ"
+  },
+  {
+    "id": "1793382782450",
+    "name": "Picanha Bovina Premium Tipo A",
+    "description": "Corte nobre retirado rigorosamente até a terceira veia, garantindo uma peça 100% legítima e sem surpresas. Com formato triangular perfeito e uma capa de gordura uniforme e generosa, a nossa Picanha Tipo A oferece o equilíbrio exato entre maciez, suculência e aquele sabor inconfundível que todo amante de churrasco exige.\nDestaques: 100% Picanha (sem coxão duro), capa de gordura perfeita e extrema maciez.\nSugestão de preparo: Na brasa, em bifes de tira (massa) ou peça inteira apenas com sal grosso.",
+    "price": 150.8,
+    "priceType": "kg",
+    "photoFileId": "AgACAgEAAxkBAAIBI2rk2XoHFacdinI1B9lVPhLtHVY7AAKDDWsbNrsgR55k1YIK22w5AQADAgADeQADPQQ"
+  }
+]

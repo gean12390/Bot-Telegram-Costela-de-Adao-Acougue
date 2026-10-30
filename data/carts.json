@@ -1,0 +1,23 @@
+[
+  {
+    "userId": "8737243412",
+    "items": []
+  },
+  {
+    "userId": "8632260202",
+    "items": [
+      {
+        "productId": "1793382782450",
+        "quantity": 1
+      },
+      {
+        "productId": "1793382666948",
+        "quantity": 1
+      },
+      {
+        "productId": "1793382144686",
+        "quantity": 1
+      }
+    ]
+  }
+]
